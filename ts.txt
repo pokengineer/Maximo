@@ -1,0 +1,16 @@
+NOMBRE                             TIPODATO                      VALOR                         LONGITUD                      
+@max                               INT                           --                            4
+S_Ingrese_un_valor_entero_positivo___1CONST_STR                     "Ingrese un valor entero positivo: "34
+X                                  INT                           --                            1
+_3                                 CONST_INT                     3                             1
+_2                                 CONST_INT                     2                             1
+_9                                 CONST_INT                     9                             1
+_4                                 CONST_INT                     4                             1
+_5                                 CONST_INT                     5                             1
+_6                                 CONST_INT                     6                             1
+max                                INT                           --                            3
+_1                                 CONST_INT                     1                             1
+_7                                 CONST_INT                     7                             1
+resul                              INT                           --                            5
+S_El_maximo_es___2                 CONST_STR                     "El maximo es: "              14
+S_El_resultado_es___3              CONST_STR                     "El resultado es: "           17

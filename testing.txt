@@ -1,0 +1,8 @@
+WRITE "Ingrese un valor entero positivo: "
+READ X
+max = maximo (3,2,9,4,5,6,4,4)
+resul = maximo (3,1,2,2,2,4,7,9) / X
+WRITE "El maximo es: "
+WRITE max
+WRITE "El resultado es: "
+WRITE resul

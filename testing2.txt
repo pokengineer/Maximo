@@ -1,0 +1,7 @@
+WRITE "aaaa"
+max = maximo ( 2, 2, 2, 2)
+WRITE max
+max = maximo ( 12, 1, 33, 4, 100 )
+WRITE max
+max = maximo ( 12 )
+WRITE max
